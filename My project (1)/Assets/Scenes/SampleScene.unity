@@ -596,6 +596,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: movableSphere
       objectReference: {fileID: 0}
+    - target: {fileID: 1273541520678419258, guid: aec4b0a55fdd0784ea8419d744acee86, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ea244de5a15eb341871a743d8edfa83, type: 2}
     - target: {fileID: 1273541520678419396, guid: aec4b0a55fdd0784ea8419d744acee86, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -662,6 +666,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: animationObject
       objectReference: {fileID: 0}
+    - target: {fileID: 1273541520678419258, guid: aec4b0a55fdd0784ea8419d744acee86, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ea244de5a15eb341871a743d8edfa83, type: 2}
     - target: {fileID: 1273541520678419396, guid: aec4b0a55fdd0784ea8419d744acee86, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -1390,6 +1398,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sphere
       objectReference: {fileID: 0}
+    - target: {fileID: 1273541520678419258, guid: aec4b0a55fdd0784ea8419d744acee86, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ea244de5a15eb341871a743d8edfa83, type: 2}
     - target: {fileID: 1273541520678419396, guid: aec4b0a55fdd0784ea8419d744acee86, type: 3}
       propertyPath: m_RootOrder
       value: 6
